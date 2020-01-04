@@ -505,7 +505,7 @@ GetRegionIndex(array1, lastRegionVisited)
 {
 	for index, mapRegion in array1
 	{
-        If InStr(lastRegionVisited, mapRegion[1], false)
+        If InStr(lastRegionVisited, mapRegion, false)
         {
             return index
         }
