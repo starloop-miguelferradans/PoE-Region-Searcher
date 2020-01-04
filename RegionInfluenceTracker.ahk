@@ -12,7 +12,7 @@ SetWorkingDir %A_ScriptDir%
  
 tog1:=0
 Hide1:=0
-WinName:="Fall`'s Atlas Region Selector. v1.0.1."
+WinName:="Path Of Exile's Conquerors Influence Tracker"
  
 SleepTime=200
  

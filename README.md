@@ -1,21 +1,40 @@
-# PoE Region Searcher
+# Path Of Exile's Conqueror Influence Tracker
 
-This is a basic AutoHotKey script for map tab QoL and for helping with atlas progression.
+This is a fork from Fall's Region Search Overlay found here: https://github.com/Fallstreak6/PoE-Region-Searcher
+This is a AutoHotKey script to add map tab QoL and save time with atlas progression, and to track influenced
+regions automatically, by parsing Path Of Exile's client log.
 
-![picture alt](https://i.imgur.com/DfiqCbP.png)
+![picture alt](https://i.imgur.com/ujtPY9V.png)
 
-## Demo video
-This demo uses the map tab but the macro works in any stash tab with a search bar.
-https://www.youtube.com/watch?v=_9x9TGSVCAA
+# Automatic Influence Tracking
+
+Every time you encounter a Conqueror in a map, the script UI will update automatically to reflect the new status.
+
+There are five levels of influence status:
+
+* 0: no influence in this region
+* 1: Conqueror encountered once
+* 2: Conqueror encountered twice
+* 3: Conqueror encountered thrice, and his/her Citadel is opened
+* 4: Conqueror was defeated and his/her influence cannot be spawned again in this Sirus spawn cycle
+
+When you defeat every Conqueror, the script UI will reset, ready for the new Sirus spawn cycle
+
+## Initial Setup:
+
+The first time you use the script, you will have to modify the Config.ini file, found in the main folder.
+
+Here you will have to update the path to your client log, and the status of your current influenced regions
+for each conqueror, follow the explanation from above to set each Conqueror correctly.
+
+After this is done, there is nothing else to do, the script will automatically update the influences when you encounter
+the Conquerors in maps.
+
+![picture alt](https://i.imgur.com/bgVsGxk.png)
 
 # Features:
 
 * Click to search your map tab by region. Works in any stash tab with a search bar. (Make sure your stash is open when you do this or nothing will happen, it can check if the game is open but not what you are doing ingame)
-* Click to track influence and watchstones. Auto saves your selections.
+* Tracks your influenced regions automatically by parsing Path Of Exile's client log
 * Automatic always on top while you play.
 * F2 or ` (tilde) to show/hide interface.
-
-## To do:
-
-* Customize show/hide key.
-* Track awakening level.
