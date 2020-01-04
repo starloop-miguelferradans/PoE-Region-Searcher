@@ -1,0 +1,179 @@
+{
+	"Regions": [
+		{ 
+			"name": "Haewark Hamlet",
+			"maps": [
+				"Leyline",
+				"Vaal Pyramid",
+				"Conservatory",
+				"Academy",
+				"Phantasmagoria",
+				"Dig",
+				"Castle Ruins",
+				"Precinct",
+				"Grotto",
+				"Terrace",
+				"Chateau",
+				"Malformation",
+				"Shrine"
+			]
+		},
+		{ 
+			"name": "Tirn's End",
+			"maps": [
+				"Wharf",
+				"Alleyways",
+				"Strand",
+				"Atoll",
+				"Tropical Island",
+				"Cursed Crypt",
+				"Laboratory",
+				"Iceberg",
+				"City Square",
+				"Museum",
+				"Temple",
+				"Ghetto",
+				"Spider Forest",
+				"Primordial Pool",
+				"Necropolis",
+				"Waterways"
+			]
+		},
+		{ 
+			"name": "Lex Proxima",
+			"maps": [
+				"Jungle Valley",
+				"Fields",
+				"Haunted Mansion",
+				"Mausoleum",
+				"Arid Lake",
+				"Ashen Wood",
+				"Desert",
+				"Orchard",
+				"Underground Sea",
+				"Underground River",
+				"Maze",
+				"Bog",
+				"Arsenal",
+				"Cemetery",
+				"Dunes",
+				"Volcano",
+				"Belfry",
+				"Residence",
+				"Ivory Temple",
+				"Bazaar",
+				"Port",
+				"Coral Ruins",
+				"Crystal Ore",
+				"Plateau"
+			]
+		},
+		{ 
+			"name": "Lex Ejoris",
+			"maps": [
+				"Arena",
+				"Barrows",
+				"Pit",
+				"Arachnid Nest",
+				"Bone Crypt",
+				"Thicket",
+				"Caldera",
+				"Reef",
+				"Core",
+				"Lair",
+				"Lava Lake",
+				"Canyon",
+				"Shipyard",
+				"Crimson Temple",
+				"Carcass"
+			]
+		},
+		{ 
+			"name": "New Vastir",
+			"maps": [
+				"Arcade",
+				"Cage",
+				"Moon Temple",
+				"Park",
+				"Courtyard",
+				"Waste Pool",
+				"Courthouse",
+				"Acid Caverns",
+				"Basilica",
+				"Primordial Blocks",
+				"Sunken City",
+				"Summit"
+			]
+		},
+		{ 
+			"name": "Glennach Cairns",
+			"maps": [
+				"Beach",
+				"Armoury",
+				"Fungal Hollow",
+				"Sulphur Vents",
+				"Marshes",
+				"Glacier",
+				"Ramparts",
+				"Racecourse",
+				"Vault",
+				"Dungeon",
+				"Pen",
+				"Flooded Mine",
+				"Excavation",
+				"Infested Valley",
+				"Spider Lair",
+				"Coves",
+				"Cells",
+				"Shore",
+				"Channel",
+				"Colonnade",
+				"Lava Chamber",
+				"Plaza"
+			]
+		},
+		{ 
+			"name": "Valdo's Rest",
+			"maps": [
+				"Pier",
+				"Peninsula",
+				"Villa",
+				"Scriptorium",
+				"Graveyard",
+				"Lookout",
+				"Burial Chambers",
+				"Factory",
+				"Mesa",
+				"Mud Geyser",
+				"Wasteland",
+				"Crater",
+				"Mineral Pools",
+				"Overgrown Ruin",
+				"Lighthouse",
+				"Overgrown Shrine",
+				"Promenade",
+				"Vaal Temple"
+			]
+		},
+		{ 
+			"name": "Lira Arthain",
+			"maps": [
+				"Relic Chambers",
+				"Ancient City",
+				"Defiled Cathedral",
+				"Toxic Sewer",
+				"Estuary",
+				"Arachnid Tomb",
+				"Geode",
+				"Siege",
+				"Sepulchre",
+				"Desert Spring",
+				"Palace",
+				"Gardens",
+				"Tower",
+				"Colosseum",
+				"Dark Forest"
+			]
+		}
+	]
+}
